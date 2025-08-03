@@ -1001,16 +1001,16 @@
     "answer": ""
   },
   {
-    "questionNumber": 92,
-    "question": "Based on Mr Jason’s cash flow statement below, how much is his surplus?\nNo. Income RM Expenditure RM\n1 Salary 8,000 Housing Loan RM2,000\n2 Rental 2,000 Groceries & Utilities RM1,500\n3 Car Loan RM700\n4 Saving RM500\n5 Mics. RM300",
-    "options": {
-      "A": "RM500",
-      "B": "RM1,000",
-      "C": "RM5,000",
-      "D": "RM2,000"
-    },
-    "answer": ""
+  "questionNumber": 92,
+  "question": "Based on Mr. Jason’s financial situation, he earns RM8,000 from salary and RM2,000 from rental income. His expenditures include RM2,000 for housing loan, RM1,500 for groceries and utilities, RM700 for car loan, RM500 for savings, and RM300 for miscellaneous expenses. How much is his monthly surplus?",
+  "options": {
+    "A": "RM500",
+    "B": "RM1,000",
+    "C": "RM5,000",
+    "D": "RM2,000"
   },
+  "answer": ""
+},
   {
     "questionNumber": 93,
     "question": "“If the company defaults, the investor has no collateral and thereby in the same position as all the other unsecured creditor of the company. Investor may or may not get back the capital and it’s depending on the company’s performance.” This statement refer to stock.",
