@@ -878,5 +878,225 @@
       "D": "RM105k"
     },
     "answer": ""
+  },
+ {
+    "questionNumber": 81,
+    "question": "Single premium investment-linked life insurance (SPIL) - if the value of the account exceeds the basic amount of the insurance, the death benefit will be the",
+    "options": {
+      "A": "account value",
+      "B": "basic sum assured",
+      "C": "basic sum assured plus account value",
+      "D": "basic sum assured minus account value"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 82,
+    "question": "Which is the following best described the “deduction of insurance costs (COI) from the single premium investment-linked policy (SPIL)”?",
+    "options": {
+      "A": "Deduction of COI will be made monthly in any circumstances.",
+      "B": "The COI is used to cover the basic sum assured and future outstanding premium.",
+      "C": "Deduction of COI is to cover the shortfall between the account value and the sum assured.",
+      "D": "The COI will still be deducted even though the account value exceeds the basic sum assured."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 83,
+    "question": "Why are only pure risks insurable?",
+    "options": {
+      "A": "Because there is no possibility of a loss.",
+      "B": "Because of the need to maintain the principle of indemnity.",
+      "C": "Because of the principle of utmost good faith.",
+      "D": "Because insurers prefer minor risks only."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 84,
+    "question": "The role of the agent is to explain the main provisions of the insurance contract by drawing the client’s attention to\nI. Scope of coverage, terms and conditions of the policy.\nII. Any extra charges imposed and purpose of such charges\nIII. Policy restrictions, limitation and exclusions applicable.\nIV. Other insurance policies with the lowest premiums available in the market.",
+    "options": {
+      "A": "I and II",
+      "B": "I, II and III",
+      "C": "I, III and IV",
+      "D": "I, II, III and IV"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 85,
+    "question": "Which of the following is NOT true about investment-linked policy?",
+    "options": {
+      "A": "Flexibility",
+      "B": "Transparency",
+      "C": "Less diversification",
+      "D": "Managed by professional fund managers"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 86,
+    "question": "Which best describe an investment-linked policy?",
+    "options": {
+      "A": "The maturity benefit is equal to 60 times of the total premium paid",
+      "B": "Premium paid will provide life insurance coverage and invest in funds selected by the policy owner",
+      "C": "The cash value is guaranteed and any losses will be compensated by insurer",
+      "D": "Premium paid will only be used for specific investment funds of the policy owner’s choice from the range of funds available."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 87,
+    "question": "An investment-linked policy offers which is NOT available in a life insurance",
+    "options": {
+      "A": "Policy loan",
+      "B": "Premium holiday",
+      "C": "Guaranteed cash value",
+      "D": "Availability for those aged 16 and above"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 88,
+    "question": "The insurance fee, the administration fee, the fund management fee of the investment-linked policy are usually ....",
+    "options": {
+      "A": "Guaranteed",
+      "B": "Fixed",
+      "C": "not guaranteed",
+      "D": "decided by Bank Negara Malaysia"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 89,
+    "question": "The secondary objective of investors focus more on a specific needs, for example:",
+    "options": {
+      "A": "ensuring a comfortable standard of living for the family",
+      "B": "guaranteeing a successful business expansion",
+      "C": "ensuring a relaxing annual holiday for loved ones",
+      "D": "saving up for funds for their children’s future business"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 90,
+    "question": "Before investing, clients must understand their investment objective & risk appetite. An agent is to ensure that the clients receive clear information and knowledge on how",
+    "options": {
+      "A": "investments work",
+      "B": "to achieve high return",
+      "C": "to conduct technical analysis",
+      "D": "the professional investor decides"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 91,
+    "question": "Clients must understand that there is a trade-off in investment. A client must understand & accept it before making any investment decision",
+    "options": {
+      "A": "buy-sell",
+      "B": "low-high",
+      "C": "risk-return",
+      "D": "offer-acceptance"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 92,
+    "question": "Based on Mr Jason’s cash flow statement below, how much is his surplus?\nNo. Income RM Expenditure RM\n1 Salary 8,000 Housing Loan RM2,000\n2 Rental 2,000 Groceries & Utilities RM1,500\n3 Car Loan RM700\n4 Saving RM500\n5 Mics. RM300",
+    "options": {
+      "A": "RM500",
+      "B": "RM1,000",
+      "C": "RM5,000",
+      "D": "RM2,000"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 93,
+    "question": "“If the company defaults, the investor has no collateral and thereby in the same position as all the other unsecured creditor of the company. Investor may or may not get back the capital and it’s depending on the company’s performance.” This statement refer to stock.",
+    "options": {
+      "A": "loan",
+      "B": "ordinary",
+      "C": "preference",
+      "D": "debenture"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 94,
+    "question": "What is the difference between the par value and the discounted price in the discount market?",
+    "options": {
+      "A": "yield",
+      "B": "profit",
+      "C": "coupon",
+      "D": "interest"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 95,
+    "question": "The capital guaranteed fund operates in the following way:",
+    "options": {
+      "A": "The fund guarantees the invested capital while on the other hand, the return is decided by the company at a specific rate.",
+      "B": "The fund guarantees an earning while on the other hand, the return is capped at fluctuate rate though the actual investment result may be lower.",
+      "C": "The fund guarantees the invested capital while on the other hand, the return is capped at a specific rate though the actual investment result may be higher.",
+      "D": "The fund guarantees the invested capital while on the other hand, the return is decided at a specific rate though actual investment experience may be lower and higher."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 96,
+    "question": "Commodities, e.g. food, gold or oil, provides alternative investment to venture out of stocks and bonds with the objective of gaining from price movements and the common method to do so is by",
+    "options": {
+      "A": "buying a future contract",
+      "B": "buying stocks listed on Bursa Malaysia",
+      "C": "buying a company involved in commodities",
+      "D": "investing into commodities-based stocks directly"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 97,
+    "question": "Which of the following is false about treasury bills?",
+    "options": {
+      "A": "Treasury bills are issued by Bank Negara Malaysia.",
+      "B": "Treasury bills are long-term government funding vehicles.",
+      "C": "Institutional investors are the main buyer.",
+      "D": "Treasury bills are safer investment tool."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 98,
+    "question": "Health insurance underwriters review medical histories of applicants to determine the\nI. Complications that may develop at a later stage.\nII. Possibility of recurrence.\nIII. Normal progression of any impairment.",
+    "options": {
+      "A": "I and II",
+      "B": "II and III",
+      "C": "I and III",
+      "D": "I, II and III"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 99,
+    "question": "The age of the life to be insured is a very important factor in determining:\nI. The rate of premium.\nII. Whether the policy can be granted.\nIII. The kind of medical evidence required.\nIV. The commencement date of the policy.",
+    "options": {
+      "A": "I and II",
+      "B": "II and III",
+      "C": "I, II and III",
+      "D": "I, II and IV"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 100,
+    "question": "Which type of policy does NOT have a cash value?",
+    "options": {
+      "A": "Term",
+      "B": "Whole life",
+      "C": "Endowment",
+      "D": "Children’s deferred insurance"
+    },
+    "answer": ""
   }
 ]
