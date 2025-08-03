@@ -1,227 +1,227 @@
 [
   {
     "questionNumber": 1,
-    "question": "General insurance contracts provide cover against the following risks, EXCEPT:",
+    "question": "Which of the following is NOT an advantage provided by health and medical insurance?",
     "options": {
-      "A": "damage to property",
-      "B": "motor car accident",
-      "C": "natural death",
-      "D": "legal liability"
+      "A": "Payment of an allowance.",
+      "B": "Reimbursement of medical expenses.",
+      "C": "Lump sum payment due to accidental death.",
+      "D": "Lump sum payment due to critical illness."
     },
-    "answer": "C"
+    "answer": ""
   },
   {
     "questionNumber": 2,
-    "question": "______________ buy insurance products.",
+    "question": "Please identify the benefits provided by the hospital and the surgical insurance contract.",
     "options": {
-      "A": "Insurance and reinsurance companies",
-      "B": "Individuals and business entities",
-      "C": "Lloyd’s underwriting members",
-      "D": "Insurance brokers and agents"
+      "A": "Reimbursement of medical expenses.",
+      "B": "Lump sum reward upon diagnosis of critical illness.",
+      "C": "Allowance given for the period of disablement.",
+      "D": "Payment of the policy money on accidental death."
     },
-    "answer": "B"
+    "answer": ""
   },
   {
     "questionNumber": 3,
-    "question": "In the context of the insurance market, insurance intermediaries are",
+    "question": "Below are all medical and health insurance products, EXCEPT",
     "options": {
-      "A": "real estate agents and property developers",
-      "B": "insurance brokers, agents and financial advisers",
-      "C": "trustees and financial Institutions",
-      "D": "motor franchise holders and stock brokers"
+      "A": "Hospital & surgical insurance",
+      "B": "Disability Income insurance",
+      "C": "Dread disease insurance",
+      "D": "Total permanent disability income insurance"
     },
-    "answer": "B"
+    "answer": ""
   },
   {
     "questionNumber": 4,
-    "question": "Conventional insurance does not conform to Syariah rules and requirements because of involvement of the following elements, EXCEPT:",
+    "question": "Which of the following criteria are normally applied when comparing investment-linked life insurance policies with traditional policies?\nI. Policy loan\nII. Option to top up\nIII. Premium computation\nIV. Investment return and risks",
     "options": {
-      "A": "Maisir - gambling as the consequence of the presence of uncertainty",
-      "B": "Riba - the existence of interest or usury in its investment activities",
-      "C": "Gharar - uncertainty in the contract of insurance",
-      "D": "Mudharabah - a contract whereby both parties agree on a profit and loss sharing"
+      "A": "I, II and III",
+      "B": "I, III and IV",
+      "C": "II, III and IV",
+      "D": "I, II, III and IV"
     },
-    "answer": "C"
+    "answer": ""
   },
   {
     "questionNumber": 5,
-    "question": "An example of a fundamental risk is",
+    "question": "An investment-linked life insurance policy has a free-look period of days.",
     "options": {
-      "A": "a road accident causing loss, injury and death to several motorists",
-      "B": "a stock market crash causing heavy financial loss to investors",
-      "C": "fire destroying a row of shop houses causing severe damage",
-      "D": "a pandemic causing many communities in a region to shutdown"
+      "A": "11",
+      "B": "15",
+      "C": "18",
+      "D": "21"
     },
-    "answer": "D"
+    "answer": ""
   },
   {
     "questionNumber": 6,
-    "question": "It is not acceptable to insure against the payment of fines or penalties imposed for contravening the law because",
+    "question": "A life policy with an acquired value provides special privileges such as non-forfeiture and paid-up policy provisions",
     "options": {
-      "A": "of avoidance of high risk",
-      "B": "of exposure to undue risk",
-      "C": "it is against public policy",
-      "D": "of the exclusion in the contract"
+      "A": "cash",
+      "B": "cashless",
+      "C": "cash investment",
+      "D": "cash savings"
     },
-    "answer": "D"
+    "answer": ""
   },
   {
     "questionNumber": 7,
-    "question": "The government and society as a whole are solely responsible for this type of risks:",
+    "question": "Which of the following benefits is provided to the policy owner of a Critical Illness (CI) or Dread Disease Insurance?",
     "options": {
-      "A": "Fundamental risks",
-      "B": "Speculative risks",
-      "C": "Pure risks",
-      "D": "Particular risks"
+      "A": "Payment of an allowance on a daily, weekly or monthly basis.",
+      "B": "An income stream to replace the wages lost due to illness.",
+      "C": "The reimbursement of medical expenses incurred by the policy owner.",
+      "D": "A lump sum payment upon diagnosis of any of the (36) dread diseases."
     },
-    "answer": "A"
+    "answer": ""
   },
   {
     "questionNumber": 8,
-    "question": "Select the statement that is true of “Risk Control”",
+    "question": "For continuity of coverage of renewable policies, the insurers shall NOT",
     "options": {
-      "A": "Minor loss can be retained by an organization",
-      "B": "Risk can be avoided by not participating in the particular activity that gives rise to the risk",
-      "C": "Risk of severe losses can be mitigated with adequate disaster recovery plans",
-      "D": "Risk can be prevented with implementation of prudent risk management"
+      "A": "reject the policy renewal",
+      "B": "renew the policy upon the renewal date",
+      "C": "unilaterally terminate the policy during the cover period",
+      "D": "refuse to increase the amount of cover due to certain material fact"
     },
-    "answer": "D"
+    "answer": ""
   },
   {
     "questionNumber": 9,
-    "question": "In insurance, the transfer of rights and liabilities of the insured to a new insured is referred to as _________________",
+    "question": "When insurance agent makes contact with the prospective policy owner, he should first identify himself and then the he represents.",
     "options": {
-      "A": "an assignment of policy proceeds",
-      "B": "a transfer of interest",
-      "C": "a transfer of policy",
-      "D": "an assignment of policy"
+      "A": "agency office",
+      "B": "consultancy firm",
+      "C": "reinsurance company",
+      "D": "insurance company"
     },
-    "answer": "D"
+    "answer": ""
   },
   {
     "questionNumber": 10,
-    "question": "In a life proposal where age is a material fact, _______________ is required to avoid a misrepresentation by the proposer.",
+    "question": "Which of the following comprise prohibited business conduct for insurers as well as insurance agents?\nI. Persuading or attempting to persuade a consumer to dishonestly conceal, omit or provide materials fact ambitiously.\nII. Offering or assuming to act on behalf of an insurer in negotiating a policy\nIII. Making any statement, promise or comparison which is misleading\nIV. Carrying out any other act on behalf of an insurer in relation to issuance or renewal of a policy.",
     "options": {
-      "A": "the proposal form",
-      "B": "the driving licence",
-      "C": "proof of age",
-      "D": "the death certificate"
+      "A": "I and III",
+      "B": "I and IV",
+      "C": "II and III",
+      "D": "II and IV"
     },
-    "answer": "C"
+    "answer": ""
   },
   {
     "questionNumber": 11,
-    "question": "The requirement of insurable interest is merely to ensure that insurance is not abused for the purpose of speculation, wagering or______________.",
+    "question": "Age and gender are important factor in medical and health insurance and women have a higher rate of as compared to man.",
     "options": {
-      "A": "profiteering",
-      "B": "investing",
-      "C": "gambling",
-      "D": "gaming"
+      "A": "mobility",
+      "B": "morality",
+      "C": "mortality",
+      "D": "morbidity"
     },
-    "answer": "C"
+    "answer": ""
   },
   {
     "questionNumber": 12,
-    "question": "_________________ are the subject matter of insurance in a life or personal accident policy.",
+    "question": "Guideline by BNM on Medical and Health Insurance Business, Product Transparency and Disclosure include:\nI. stronger access to healthcare via private insurance.\nII. increase competition among private health care companies\nIII. control costs and promote long-term sustainability of the private health insurance sector.\nIV. reduce mis-selling to financial consumer.",
     "options": {
-      "A": "Funeral expenses",
-      "B": "Life and limb",
-      "C": "Medical cost and expenses",
-      "D": "Salaries and wages"
+      "A": "I and II",
+      "B": "I & III",
+      "C": "I, II & IV",
+      "D": "I,III & IV"
     },
-    "answer": "B"
+    "answer": ""
   },
   {
     "questionNumber": 13,
-    "question": "In the absence of any specific questions in the proposal form, an insured is not required to disclose a fact that _________________",
+    "question": "In health insurance terminology, the term ‘deductible’ refers to;",
     "options": {
-      "A": "increases the risk to the insurer",
-      "B": "diminishes the risk to the insurer",
-      "C": "affects insurer’s rating of the risk",
-      "D": "influences the decision in acceptance of the risk"
+      "A": "Special payment arrangements made by the insurer with certain insured.",
+      "B": "The insurer has to pay a pre-agreed amount first before the balance of eligible expenses are reimbursed by policyholder.",
+      "C": "The agent have to pay a pre-agreed amount before the balance of eligible expenses are paid by insurer.",
+      "D": "The policyholder has to pay a pre-agreed amount before the balance of eligible expenses are reimbursed or paid by the insurer."
     },
-    "answer": "B"
+    "answer": ""
   },
   {
     "questionNumber": 14,
-    "question": "Proximate cause is a key principle of insurance and is concerned with how the loss or damage actually occurred and whether it is a direct result of_________________",
+    "question": "Extra premium are charged for the following occupations, EXCEPT",
     "options": {
-      "A": "an exceptional peril",
-      "B": "an uninsured peril",
-      "C": "an insured peril",
-      "D": "an excluded peril"
+      "A": "Car racing drivers",
+      "B": "Underground mine workers",
+      "C": "Clerks",
+      "D": "Sea divers"
     },
-    "answer": "C"
+    "answer": ""
   },
   {
     "questionNumber": 15,
-    "question": "A mountain climber broke his leg and was hospitalized but died in hospital due to SARS contracted from another patient. The insurer will decline the death claim under his personal accident policy due to the application of the principle of",
+    "question": "If there has been a misrepresentation of age, which of the following measures could be adopted?",
     "options": {
-      "A": "indemnity",
-      "B": "proximate cause",
-      "C": "insurable interest",
-      "D": "contribution"
+      "A": "The policy will be cancelled and all premium paid will be refunded",
+      "B": "The policy will be cancelled and no premium will be refunded.",
+      "C": "If the age has been understated, the premium based on the true age will need to be paid with interest.",
+      "D": "If the age has been understated, the amount of money payable will be such sum as the premium paid will purchase according to the true age."
     },
-    "answer": "B"
+    "answer": ""
   },
   {
     "questionNumber": 16,
-    "question": "Consumers are required to submit their complaints to Financial Mediation Bureau within _________________ from the date of the final decision of the financial service provider.",
+    "question": "What category of risk that an insured has been imposed on medical and health insurance with special terms, higher premium or limitations of coverage ________.",
     "options": {
-      "A": "one month",
-      "B": "three months",
-      "C": "six months",
-      "D": "nine months"
+      "A": "Standard risk",
+      "B": "Substandard risk",
+      "C": "Decline risk",
+      "D": "Special risk"
     },
-    "answer": "C"
+    "answer": ""
   },
   {
     "questionNumber": 17,
-    "question": "Members of the Financial Mediation Bureau do NOT include",
+    "question": "_____ is NOT a method of policy limitation applied to hospital & surgical insurance policy in order to restrain the cost of claims.",
     "options": {
-      "A": "takaful operators",
-      "B": "licensed insurance brokers",
-      "C": "licensed banking institutions",
-      "D": "licensed insurance companies"
+      "A": "Deductibles",
+      "B": "Cost sharing",
+      "C": "Annual Limit",
+      "D": "‘As Charged’ basic."
     },
-    "answer": "B"
+    "answer": ""
   },
   {
     "questionNumber": 18,
-    "question": "Identify which of the following are NOT covered by the provisions of Perbadanan Insurans Deposit Malaysia (PIDM).",
+    "question": "The basic sum assured for single premium investment-linked life insurance is _____ of the single premium paid.",
     "options": {
-      "A": "Islamic banks",
-      "B": "Reinsurance companies",
-      "C": "Takaful companies",
-      "D": "Commercial banks"
+      "A": "100%",
+      "B": "125%",
+      "C": "175%",
+      "D": "200%"
     },
-    "answer": "B"
+    "answer": ""
   },
   {
     "questionNumber": 19,
-    "question": "An insurance company can be wound up",
+    "question": "An insurance contract is a legally binding agreement between an insured and",
     "options": {
-      "A": "by making a public declaration",
-      "B": "by filing an application to the high court",
-      "C": "voluntarily by applying to the Companies Commission of Malaysia",
-      "D": "by getting the prior written approval of Bank Negara Malaysia"
+      "A": "agent",
+      "B": "insurer",
+      "C": "broker",
+      "D": "the government"
     },
-    "answer": "C"
+    "answer": ""
   },
   {
     "questionNumber": 20,
-    "question": "Insurance companies in Malaysia are required to be incorporated as",
+    "question": "Which one of the following will NOT terminate the policy?",
     "options": {
-      "A": "private companies",
-      "B": "mutual companies",
-      "C": "public companies",
-      "D": "large corporations"
+      "A": "Death of the life assured",
+      "B": "Missing of life assured for 4 years",
+      "C": "Exhaustion of the policy lifetime limit",
+      "D": "On the policy anniversary date following the life assured eligibility age"
     },
-    "answer": "C"
+    "answer": ""
   },
   {
     "questionNumber": 21,
-    "question": "Insurance companies must _________________ in respect of Customer Due Diligence under the Anti Money Laundering and Counter Financing of Terrorism compliance guidelines.",
+    "question": "Insurance companies must ___________ in respect of Customer Due Diligence under the Anti Money Laundering and Counter Financing of Terrorism compliance guidelines.",
     "options": {
       "A": "implement risk management commensurate with the level of money laundering and terrorism financing risks",
       "B": "report all cash transactions exceeding RM50,000 to Bank Negara Malaysia",
@@ -232,7 +232,7 @@
   },
   {
     "questionNumber": 22,
-    "question": "In the context of insurance, an ‘offer’ is made by the________________ when submitting a completed and signed proposal form to the insurer.",
+    "question": "In the context of insurance, an ‘offer’ is made by the __________ when submitting a completed and signed proposal form to the insurer.",
     "options": {
       "A": "proposer",
       "B": "agent",
