@@ -219,4 +219,224 @@
     },
     "answer": ""
   },
+  {
+    "questionNumber": 21,
+    "question": "Net premium loaded with management expenses, contingencies and profit margin equal to .",
+    "options": {
+      "A": "Compound premium",
+      "B": "Basic premium",
+      "C": "Gross premium",
+      "D": "Fixed premium"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 22,
+    "question": " is an example of initial expenses.",
+    "options": {
+      "A": "Litigation expenses",
+      "B": "Advertising expenses",
+      "C": "Claim payment expenses",
+      "D": "Policy servicing expenses"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 23,
+    "question": "Select from the following what a life insurer would do if, after the policy has been in force for three years, it found the life insured’s age is different from what was declared.",
+    "options": {
+      "A": "The life insurer will take no action",
+      "B": "The life insurer will charge the life assured in court",
+      "C": "The life insurer will terminate the policy",
+      "D": "The life insurer will vary sum assured, premium and bonuses to reflect the actual age"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 24,
+    "question": "What is the term for a relationship created under the circumstances when the agent makes a critical decision on behalf of another party who is NOT in a condition to do so?",
+    "options": {
+      "A": "Agency by contract",
+      "B": "Agency by agreement",
+      "C": "Agency by necessity",
+      "D": "Agency by certification"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 25,
+    "question": "A person insuring the life of another must have insurable interest in that life at policy inception; otherwise, the policy issued would be deemed",
+    "options": {
+      "A": "void",
+      "B": "voidable",
+      "C": "unenforceable",
+      "D": "acknowledgeable"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 26,
+    "question": "A principle may terminate an agency by giving one of the following notices to the agent EXCEPT",
+    "options": {
+      "A": "revocation",
+      "B": "extension",
+      "C": "completion",
+      "D": "renunciation"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 27,
+    "question": "Occupational hazard increases the chance of work-related injuries resulting in higher premium rates, in particular for _______ insurance.",
+    "options": {
+      "A": "hospital income",
+      "B": "disability income",
+      "C": "critical illness",
+      "D": "hospital & surgical"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 28,
+    "question": "An insurer will decide based on _______ that would lead to the decision to accept or reject the application of a life policy.",
+    "options": {
+      "A": "simple fact",
+      "B": "common fact",
+      "C": "material fact",
+      "D": "complicated fact"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 29,
+    "question": "When can the convertible stocks be converted to ordinary shares?",
+    "options": {
+      "A": "On the fixed date",
+      "B": "On any date as agreed upon",
+      "C": "On any date the company wishes to do so",
+      "D": "On any date the investor wishes to do so"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 30,
+    "question": "Which of the following is NOT an important consideration in normal underwriting or selection of a life insurance risk?",
+    "options": {
+      "A": "Over-insurance",
+      "B": "Under-insurance",
+      "C": "Moral hazard",
+      "D": "Physical hazard"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 31,
+    "question": "Compared to whole life policy, insurers charge higher premium for endowment policy is to ______.",
+    "options": {
+      "A": "cover guaranteed cash value and bonus",
+      "B": "cover survival benefit on maturity date",
+      "C": "cover the shorter duration of insurance period",
+      "D": "cover investment returns on policy maturity"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 32,
+    "question": "______ is designed to give policy owner a fair share of the profits earned by the life fund and is payable only upon death or maturity.",
+    "options": {
+      "A": "Reversionary bonus",
+      "B": "Cash bonus",
+      "C": "Terminal bonus",
+      "D": "Interim bonus"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 33,
+    "question": "An agent noticed that his prospect has a policy that is less competitive compared to what his insurer offers, the agent should",
+    "options": {
+      "A": "inform the prospect all the benefits available in the policy that his insurer provided as it will help influence the prospect to cancel his existing policy.",
+      "B": "not trying to persuade the prospect to cancel the existing policy unless it is clearly unable to meet his needs.",
+      "C": "make a comparison between the product his insurer offers and the existing policy so the prospect will be influenced and decide to alter policy.",
+      "D": "insist that the potential policy owner purchase a new policy while continuing with the one he already has."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 34,
+    "question": "One of the results of ‘twisting’ by a life insurance agent is when the policyholder moves his policy from one insurer to another, the policyholder",
+    "options": {
+      "A": "will not become eligible for any other policies and fall under non-forfeiture.",
+      "B": "can commence a new policy to be qualified by the insurer to become eligible for surrender value and come under the extra funded system.",
+      "C": "can exercise to stop the future payment of the old policy once the new policy is approved. He will become eligible for a surrender value and come under the non-forfeiture system.",
+      "D": "must commence again the qualifying period before the new insurance will become eligible for a surrender value and come under the non-forfeiture system."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 35,
+    "question": "The deposit insurance system in Malaysia launched in September 2005 is managed by",
+    "options": {
+      "A": "BNM",
+      "B": "PIDM",
+      "C": "PIAM",
+      "D": "LIAM"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 36,
+    "question": "A ______ of an employee which an employer has insurable interest in the life of an important employee whose ______ could impact the Company business.",
+    "options": {
+      "A": "Early retirement",
+      "B": "Premature death",
+      "C": "Premature resignation",
+      "D": "Immediate resignation"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 37,
+    "question": "Identify what the intermediary should do if a policy owner may ask the intermediary for advice concerning the technical aspect of investment.",
+    "options": {
+      "A": "The intermediary should inform the prospect that it is not a big issue.",
+      "B": "The intermediary should immediately offer advice, whether he is knowledgeable or not.",
+      "C": "The intermediary should offer his advice as he must be knowledgeable in all aspects of investment.",
+      "D": "The intermediary should advise only on those matters in which he is competent and recommend another specialist if necessary."
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 38,
+    "question": "Select what does NOT reflect an act of good faith on the part of an agent when dealing with the principal:",
+    "options": {
+      "A": "Not accepting secret commissions",
+      "B": "Not concealing any relevant information",
+      "C": "Maintaining confidentiality of personal data",
+      "D": "Acting for his own personal interests at all times"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 39,
+    "question": "One of the Guidelines in the Investment-Linked Business issued by Bank Negara relevant to agent is that he/she must ensure ______ in the selling of investment-linked insurance policies.",
+    "options": {
+      "A": "continuous efforts",
+      "B": "professional & proper conduct",
+      "C": "aggressive & hard work",
+      "D": "effective planning and strategizing"
+    },
+    "answer": ""
+  },
+  {
+    "questionNumber": 40,
+    "question": "Which of the following is correct regarding Malaysian bond market.",
+    "options": {
+      "A": "The yields of bonds are not stable.",
+      "B": "Malaysian bonds are less volatile compared to global bonds.",
+      "C": "The risk of corporate bonds are lower than government bonds.",
+      "D": "The yield of Ten-year Malaysian Government Securities is slightly above 10%"
+    },
+    "answer": ""
+  }
 ]
