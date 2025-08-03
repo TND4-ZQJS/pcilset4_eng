@@ -45,7 +45,7 @@
   },
   {
     "questionNumber": 5,
-    "question": "An investment-linked life insurance policy has a free-look period of days.",
+    "question": "An investment-linked life insurance policy has a free-look period of ____ days.",
     "options": {
       "A": "11",
       "B": "15",
@@ -56,7 +56,7 @@
   },
   {
     "questionNumber": 6,
-    "question": "A life policy with an acquired value provides special privileges such as non-forfeiture and paid-up policy provisions",
+    "question": "A life policy with an acquired ____ value provides special privileges such as non-forfeiture and paid-up policy provisions",
     "options": {
       "A": "cash",
       "B": "cashless",
@@ -89,7 +89,7 @@
   },
   {
     "questionNumber": 9,
-    "question": "When insurance agent makes contact with the prospective policy owner, he should first identify himself and then the he represents.",
+    "question": "When insurance agent makes contact with the prospective policy owner, he should first identify himself and then the ____ he represents.",
     "options": {
       "A": "agency office",
       "B": "consultancy firm",
@@ -111,7 +111,7 @@
   },
   {
     "questionNumber": 11,
-    "question": "Age and gender are important factor in medical and health insurance and women have a higher rate of as compared to man.",
+    "question": "Age and gender are important factor in medical and health insurance and women have a higher rate of ____ as compared to man.",
     "options": {
       "A": "mobility",
       "B": "morality",
@@ -199,7 +199,7 @@
   },
   {
     "questionNumber": 19,
-    "question": "An insurance contract is a legally binding agreement between an insured and",
+    "question": "An insurance contract is a legally binding agreement between an insured and ____",
     "options": {
       "A": "agent",
       "B": "insurer",
